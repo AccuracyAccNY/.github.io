@@ -30,7 +30,7 @@
 </ul>
 <br></br>
 
-<img src = "https://raw.githubusercontent.com/aleajane/aleajane.github.io/master/pnn.png" width = "50%" height = "500" align = "left" >
+<img src  >
 
 <div >
 <h1 class="paragraph">Company Overview</h1>
