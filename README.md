@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>KWK Flowchart Application</title>
+    <title>Accuracy Accounting</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
@@ -25,21 +25,21 @@
 </head>
 <body>
 
-<!--<h1>Welcome</h1>-->
-<!--<p>Welcome to the postive news network! By taking our interactive quiz we can direct you to a positive news article! We came up with this idea because all of the media on popular news networks are negative! We hope that you enjoy your article! We linked an about page to read more about us, the creators! You can al </p>-->
+<!--<h1>Company Overview</h1>-->
+<!--<p>Established in 2018, Accuracy Accounting specializes in personal and small business accounting. Our dedicated team of accountants strive to give you the benefits that you would recieve at a large firm with the personal client relationship you would find at a large firm. At accuracy accounting we realize that every customer's needs are different, and we do our best to make sure those needs are met through individual client plans. We are committed to the community we serve and always work to uphold an image of professionalism.</p>-->
 
 <ul>
   <li><a href ="/index">Home</a></li>
-  <li><a href="/quizzz">Quiz</a></li>
-  <li><a href="/about">About</a></a></li>
-  <li><a href= "https://www.kodewithklossy.com">Kode with Klossy</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/staff">Staff</a></a></li>
+  <li><a href= "/services">Services</a></li>
 </ul>
 <br></br>
 
 <img src = "https://raw.githubusercontent.com/aleajane/aleajane.github.io/master/pnn.png" width = "50%" height = "500" align = "left" >
 
 <div >
-<h1 class="paragraph">Welcome </h1>
+<h1 class="paragraph">Company Overview</h1>
 <h2 class="w3-myfont paragraph" >Welcome to the Postive News Network! By taking our <a href= "/quizzz">interactive quiz</a> we can direct you to a positive news article! We came up with this idea because all of the media on popular news networks are negative! We hope that you enjoy your article! We linked an about page to read more about us, the creators! You can also access a page called Kode With Klossy to learn about a free coding camp for girls, created by Karlie Kloss! </h2>
    </div>
    
@@ -49,8 +49,7 @@
 
 <a href="https://twitter.com/kodewithklossy?lang=en"><img src = "https://sguru.org/wp-content/uploads/2018/02/twitter_PNG33.png" width = "80" height = "100">
 
-<a href="https://www.youtube.com/channel/UCsO7dduObJt0IKCVVsUuITw"><img src = "https://user-images.githubusercontent.com/1094151/29835459-106525fc-8cc0-11e7-8134-8b7eb3c79848.png" width = "190" height = "100"
->
+<a href="https://
    
 </html>
     </main>
