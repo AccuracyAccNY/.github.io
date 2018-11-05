@@ -40,7 +40,7 @@
 
 <div >
 <h1 class="paragraph">Company Overview</h1>
-<h2 class="w3-myfont paragraph" >Welcome to the Postive News Network! By taking our <a href= "/quizzz">interactive quiz</a> we can direct you to a positive news article! We came up with this idea because all of the media on popular news networks are negative! We hope that you enjoy your article! We linked an about page to read more about us, the creators! You can also access a page called Kode With Klossy to learn about a free coding camp for girls, created by Karlie Kloss! </h2>
+<h2 class="w3-myfont paragraph" >Established in 2018, Accuracy Accounting specializes in personal and small business accounting. Our dedicated team of accountants strive to give you the benefits that you would recieve at a large firm with the personal client relationship you would find at a large firm. At accuracy accounting we realize that every customer's needs are different, and we do our best to make sure those needs are met through individual client plans. We are committed to the community we serve and always work to uphold an image of professionalism. </h2>
    </div>
    
 <br></br>
