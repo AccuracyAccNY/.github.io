@@ -21,6 +21,7 @@
 
 <!--<h1>Company Overview</h1>-->
 <!--<p>Established in 2018, Accuracy Accounting specializes in personal and small business accounting. Our dedicated team of accountants strive to give you the benefits that you would recieve at a large firm with the personal client relationship you would find at a large firm. At accuracy accounting we realize that every customer's needs are different, and we do our best to make sure those needs are met through individual client plans. We are committed to the community we serve and always work to uphold an image of professionalism.</p>-->
+<ul>Contact<ulleft>
 
 <ul>
   <li><a href ="/index">Home</a></li>
